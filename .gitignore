@@ -1,3 +1,2 @@
-.idea
-.idea
-.rest.iml
+.idea/*
+target/*
